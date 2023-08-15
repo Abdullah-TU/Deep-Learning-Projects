@@ -31,5 +31,5 @@ the gray-scale images of faces with dimensions of 48x48 pixels. Each pixel in th
 
 Visualization:
 <p float="left">
-<img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/emotion_viz.png" width="1000" height="480">
+<img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/emotion_viz.png" width="1000" height="520">
 </p>
