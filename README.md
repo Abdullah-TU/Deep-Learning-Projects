@@ -30,4 +30,6 @@ the gray-scale images of faces with dimensions of 48x48 pixels. Each pixel in th
 - Highest validation accuracy : 77%
 
 Visualization:
-https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/emotion_viz.png
+<p float="left">
+<img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/emotion_viz.png" width="1000" height="480">
+</p>
