@@ -45,7 +45,9 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 
 ### Identify the features and the targets:
 🍃 Features: Source Language Text (English sentences)
+
 &nbsp;
+
 🎯 Targets/labels: Target Language Text (Finnish sentences)
 
 ### Translation using the model:
