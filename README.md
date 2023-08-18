@@ -43,3 +43,6 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 - eng.txt: Contains Enlish sentences in each lines. Total: 100248 English sentenes
 - fin.txt: Contains FInnish sentences in each lines. Total: 100248 Finnish sentenes
 
+### Identify the features and the targets:
+🍃 Features: Source Language Text (English sentences)
+🎯 Targets/labels: Target Language Text (Finnish sentences)
