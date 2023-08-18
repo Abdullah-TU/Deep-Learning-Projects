@@ -33,3 +33,7 @@ Visualization:
 <p float="left">
 <img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/emotion_viz.png" width="1000" height="520">
 </p>
+
+# Project: Text-to-text translation
+## Target of the project:
+Our goal is to develop a deep learning model for translating different languages. However, our current focus is on English to Finnish translation.
