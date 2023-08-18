@@ -51,18 +51,22 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 - Original (data)   : you have to speak french here
 - Target (data)     : sinun täytyy puhua täällä ranskaa
 - Translated (model): teidän täytyy puhua ranskaa täällä
+  
 
 - Original (data)   : its against my principles
 - Target (data)     : se on vastoin minun periaatteitani
 - Translated (model): se on minun periaatteitani vastaan
+  
 
 - Original (data)   : she expressed her thanks for the present
 - Target (data)     : hän ilmaisi kiitollisuutensa lahjasta
 - Translated (model): hän pohti kysymystä hetkisen
+  
 
 - Original (data)   : i used to have a minidisc player
 - Target (data)     : minulla oli aikaisemmin minidiscsoitin
 - Translated (model): minulla oli aikaisemmin minidiscsoitin
+  
 
 - Original (data)   : i m not dating anyone
 - Target (data)     : en seurustele kenenkään kanssa tällä hetkellä
