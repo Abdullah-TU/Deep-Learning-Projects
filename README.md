@@ -44,11 +44,8 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 - fin.txt: Contains FInnish sentences in each lines. Total: 100248 Finnish sentenes
 
 ### Identify the features and the targets:
-🍃 Features: Source Language Text (English sentences)
-
-&nbsp;
-
-🎯 Targets/labels: Target Language Text (Finnish sentences)
+- 🍃 Features: Source Language Text (English sentences)
+- 🎯 Targets/labels: Target Language Text (Finnish sentences)
 
 ### Translation using the model:
 - Original (data)   : you have to speak french here
