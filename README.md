@@ -37,3 +37,8 @@ Visualization:
 # Project: Text-to-text translation
 ## Target of the project:
 Our goal is to develop a deep learning model for translating different languages. However, our current focus is on English to Finnish translation.
+
+##About Dataset
+Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it consists of two files :
+- eng.txt: Contains Enlish sentences in each lines. Total: 100248 English sentenes
+- fin.txt: Contains FInnish sentences in each lines. Total: 100248 Finnish sentenes
