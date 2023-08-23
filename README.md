@@ -93,3 +93,21 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
    - Convolutional downsampling blocks capture features.
    - Convolutional upsampling blocks recover spatial information.
 
+3. **Model Compilation and Training:**
+   - Compile the model with 'adam' optimizer and sparse categorical cross-entropy loss.
+   - Train the model on the prepared dataset for a specified number of epochs.
+   - Monitor the accuracy and loss metrics during training.
+
+4. **Model Evaluation and Visualization:**
+   - Display sample predictions on the test dataset.
+   - Utilize the trained model to predict segmentations on new images.
+   - Compare the input image, true mask, and predicted mask for visual assessment.
+
+**Libraries and Tools:**
+- TensorFlow and Keras for model building, training, and evaluation.
+- TensorFlow Datasets for creating input pipelines.
+- Data preprocessing using various transformations.
+- U-Net architecture for semantic segmentation.
+- Metrics such as accuracy and loss for model evaluation.
+- Visualization using matplotlib and imageio.
+
