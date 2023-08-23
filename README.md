@@ -78,3 +78,13 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 
 **Objective:** Develop a semantic segmentation model using deep learning techniques to accurately label each pixel in images captured from the CARLA self-driving car simulator. The model aims to categorize pixels into classes like cars, roads, and other objects, contributing to better environmental understanding for self-driving car systems.
 
+**Dataset:**
+- The dataset contains RGB images and corresponding labeled semantic segmentations.
+- Captured using the CARLA self-driving car simulator.
+- Labels include objects like cars, roads, and other elements in the scene.
+
+**Approach:**
+1. **Dataset Preparation:**
+   - Data loading and preprocessing, including image resizing and mask conversion.
+
+
