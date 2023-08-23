@@ -88,3 +88,8 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
    - Data loading and preprocessing, including image resizing and mask conversion.
 
 
+2. **Model Architecture:**
+   - Utilize a U-Net architecture, which includes both downsampling and upsampling pathways.
+   - Convolutional downsampling blocks capture features.
+   - Convolutional upsampling blocks recover spatial information.
+
