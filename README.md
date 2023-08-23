@@ -72,3 +72,9 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 - Original (data)   : i m not dating anyone
 - Target (data)     : en seurustele kenenkään kanssa tällä hetkellä
 - Translated (model): en ole varma
+  &nbsp;
+
+# Project Description: Semantic Segmentation for Self-Driving Cars
+
+**Objective:** Develop a semantic segmentation model using deep learning techniques to accurately label each pixel in images captured from the CARLA self-driving car simulator. The model aims to categorize pixels into classes like cars, roads, and other objects, contributing to better environmental understanding for self-driving car systems.
+
