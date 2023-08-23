@@ -115,3 +115,9 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 - The model demonstrates improvement in accurately segmenting objects in the scene.
 - Further fine-tuning and experimentation with hyperparameters could enhance performance.
 - The trained model can be integrated into self-driving car systems to aid in environmental perception.
+
+<p float="left">
+<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/main/download%20.png" width="1000" height="520">
+<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/main/download%20(1).png" width="1000" height="520">
+
+</p>
