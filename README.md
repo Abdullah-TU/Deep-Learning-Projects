@@ -117,7 +117,8 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 - The trained model can be integrated into self-driving car systems to aid in environmental perception.
 
 <p float="left">
-<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/ab483a918cf96ca8fff0c2a6433f83665ea3d7ea/download.png" width="1000" height="350">
-<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/ab483a918cf96ca8fff0c2a6433f83665ea3d7ea/download%20(4).png" width="1000" height="350">
-
+<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/ab483a918cf96ca8fff0c2a6433f83665ea3d7ea/download.png" width="1000" height="300">
+<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/ab483a918cf96ca8fff0c2a6433f83665ea3d7ea/download%20(2).png" width="1000" height="300">
+<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/ab483a918cf96ca8fff0c2a6433f83665ea3d7ea/download%20(3).png" width="1000" height="300">
+<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/ab483a918cf96ca8fff0c2a6433f83665ea3d7ea/download%20(4).png" width="1000" height="300">
 </p>
