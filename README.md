@@ -111,3 +111,7 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 - Metrics such as accuracy and loss for model evaluation.
 - Visualization using matplotlib and imageio.
 
+**Results and Future Work:**
+- The model demonstrates improvement in accurately segmenting objects in the scene.
+- Further fine-tuning and experimentation with hyperparameters could enhance performance.
+- The trained model can be integrated into self-driving car systems to aid in environmental perception.
