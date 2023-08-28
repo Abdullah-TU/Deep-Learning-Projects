@@ -150,10 +150,9 @@ Here's a summary of Project:
    - The predicted labels are converted from one-hot encoded form to integer labels.
    - The accuracy of the model is calculated by comparing the predicted labels with the true labels.
 
-7. **Print and Conclusion**:
+7. **Performance of the model**:
    - The calculated accuracy is printed out, indicating the performance of the CNN on the test dataset.
-   - A statement is provided to conclude that the CNN achieved approximately 85% accuracy, surpassing the accuracy of 1-NN and Bayes classifiers.
+   - The CNN achieved approximately 85% accuracy, surpassing the accuracy of 1-NN and Bayes classifiers.
 
-It's important to note that this is a brief summary of the code's functionality. The code implements a common CNN architecture for image classification and demonstrates how to load and preprocess data, construct a model, train it, visualize training progress, and evaluate its performance.
 
 
