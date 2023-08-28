@@ -120,4 +120,40 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 
 Project is about image classification using a Convolutional Neural Network (CNN) on the CIFAR-10 dataset.
 
+The provided code appears to be for image classification using a Convolutional Neural Network (CNN) on the CIFAR-10 dataset. Here's a summary of what the code does:
+
+1. **Data Loading and Preprocessing**:
+   - The code starts with loading the CIFAR-10 dataset using Keras' `cifar10.load_data()` function.
+   - The pixel values of the images are normalized to the range [0, 1].
+   - The class labels are one-hot encoded.
+
+2. **CNN Model Construction**:
+   - A Sequential model is created using Keras.
+   - The model consists of a series of Convolutional, Batch Normalization, MaxPooling, Dropout, and Fully Connected layers.
+   - Three sets of Convolutional layers are used, each followed by Batch Normalization and MaxPooling, with increasing filter counts.
+   - The Fully Connected layers consist of two Dense layers with ReLU activation, Batch Normalization, and Dropout.
+   - The output layer has 10 neurons with softmax activation for multi-class classification.
+
+3. **Model Compilation**:
+   - The model is compiled using the Adam optimizer and categorical cross-entropy loss function.
+   - The accuracy metric is specified for evaluation during training.
+
+4. **Data Augmentation and Training**:
+   - Image data augmentation is performed using Keras' `ImageDataGenerator`, which randomly applies zoom and horizontal flip to augment the training data.
+   - The model is trained using the augmented data with a specified number of epochs and batch size.
+
+5. **Training Progress Visualization**:
+   - Training and validation accuracy/loss values are plotted using Matplotlib to visualize the model's learning progress over epochs.
+
+6. **Prediction and Accuracy Calculation**:
+   - The trained model is used to predict class labels for the test dataset.
+   - The predicted labels are converted from one-hot encoded form to integer labels.
+   - The accuracy of the model is calculated by comparing the predicted labels with the true labels.
+
+7. **Print and Conclusion**:
+   - The calculated accuracy is printed out, indicating the performance of the CNN on the test dataset.
+   - A statement is provided to conclude that the CNN achieved approximately 85% accuracy, surpassing the accuracy of 1-NN and Bayes classifiers.
+
+It's important to note that this is a brief summary of the code's functionality. The code implements a common CNN architecture for image classification and demonstrates how to load and preprocess data, construct a model, train it, visualize training progress, and evaluate its performance.
+
 
