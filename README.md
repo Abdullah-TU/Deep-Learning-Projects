@@ -118,9 +118,9 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 
 # Exercise 4, Neural networks(CNN), CIFAR -10 dataset
 
-Project is about image classification using a Convolutional Neural Network (CNN) on the CIFAR-10 dataset.
+Project is about image classification using a Convolutional Neural Network (CNN) on the CIFAR-10 dataset. It was one of the exercise in my master's course "Pattern recongnition".
 
-The provided code appears to be for image classification using a Convolutional Neural Network (CNN) on the CIFAR-10 dataset. Here's a summary of what the code does:
+Here's a summary of Project:
 
 1. **Data Loading and Preprocessing**:
    - The code starts with loading the CIFAR-10 dataset using Keras' `cifar10.load_data()` function.
