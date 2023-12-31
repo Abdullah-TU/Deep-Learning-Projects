@@ -68,14 +68,14 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
   &nbsp;
 
 
-## Project: Face Spoof Detection 👤🕵️‍♂️ 
+# Project: Face Spoof Detection 👤🕵️‍♂️ 
 The dataset encompasses 42,000 examples of gray-scale images of faces, each with dimensions of 64x64 pixels. These images have been segregated into training, validation, and test sets for model development and evaluation.
-Dataset Characteristics:
+### Dataset Characteristics:
 - Image Specifications: Gray-scale images measuring 64x64 pixels.
 - Categories: Each image is categorized as either a genuine or spoofed facial image.  
-- Targets/Labels:
+### Targets/Labels:
 The target labels indicate whether an image belongs to the genuine or spoofed category, essential for classification purposes. The dataset distinguishes between these two classes to enable accurate model predictions.
-- Performance and Evaluation:
+#### Performance and Evaluation:
 Throughout the project, several methodologies were employed to refine and enhance the model's performance.
 - Training Accuracy: The model achieved its highest training accuracy at 78%.
 - Validation Accuracy: Demonstrating robustness, the highest validation accuracy reached 77%.
