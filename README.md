@@ -166,11 +166,15 @@ Performance and Evaluation:
 Throughout the project, several methodologies were employed to refine and enhance the model's performance.
 - Training Accuracy: The model achieved its highest training accuracy at 78%.
 - Validation Accuracy: Demonstrating robustness, the highest validation accuracy reached 77%.
-- 
+<p float="left">
+
+<img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/confusion_spoof.png" width="400" height="400">
+<img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/metric_spoof.png" width="400" height="400">
+
+</p>
+
 Visualization:
 <p float="left">
 <img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/face_result_spoof.png" width="1000" height="500">
-<img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/confusion_spoof.png" width="1000" height="500">
-<img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/metric_spoof.png" width="1000" height="500">
 </p>
 
