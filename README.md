@@ -155,4 +155,22 @@ Here's a summary of Project:
    - The CNN achieved approximately 85% accuracy, surpassing the accuracy of 1-NN and Bayes classifiers.
 
 
+## Project: Face Spoof Detection
+The dataset encompasses 42,000 examples of gray-scale images of faces, each with dimensions of 64x64 pixels. These images have been segregated into training, validation, and test sets for model development and evaluation.
+Dataset Characteristics:
+- Image Specifications: Gray-scale images measuring 64x64 pixels.
+- Categories: Each image is categorized as either a genuine or spoofed facial image.  
+Targets/Labels:
+The target labels indicate whether an image belongs to the genuine or spoofed category, essential for classification purposes. The dataset distinguishes between these two classes to enable accurate model predictions.
+Performance and Evaluation:
+Throughout the project, several methodologies were employed to refine and enhance the model's performance.
+- Training Accuracy: The model achieved its highest training accuracy at 78%.
+- Validation Accuracy: Demonstrating robustness, the highest validation accuracy reached 77%.
+- 
+Visualization:
+<p float="left">
+<img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/face_result_spoof.png" width="1000" height="500">
+<img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/confusion_spoof.png" width="1000" height="500">
+<img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/metric_spoof.png" width="1000" height="500">
+</p>
 
