@@ -160,12 +160,16 @@ The dataset encompasses 42,000 examples of gray-scale images of faces, each with
 Dataset Characteristics:
 - Image Specifications: Gray-scale images measuring 64x64 pixels.
 - Categories: Each image is categorized as either a genuine or spoofed facial image.  
-Targets/Labels:
+- Targets/Labels:
 The target labels indicate whether an image belongs to the genuine or spoofed category, essential for classification purposes. The dataset distinguishes between these two classes to enable accurate model predictions.
-Performance and Evaluation:
+- Performance and Evaluation:
 Throughout the project, several methodologies were employed to refine and enhance the model's performance.
 - Training Accuracy: The model achieved its highest training accuracy at 78%.
 - Validation Accuracy: Demonstrating robustness, the highest validation accuracy reached 77%.
+- Test Accuracy: 67.3%
+- Test Precision: 67.3%
+- Test Recall: 95.3%
+- Test F1-score: 78.9%
 <p float="left">
 
 <img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/confusion_spoof.png" width="400" height="300">
