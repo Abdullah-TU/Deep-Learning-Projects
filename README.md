@@ -168,8 +168,8 @@ Throughout the project, several methodologies were employed to refine and enhanc
 - Validation Accuracy: Demonstrating robustness, the highest validation accuracy reached 77%.
 <p float="left">
 
-<img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/confusion_spoof.png" width="400" height="400">
-<img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/metric_spoof.png" width="400" height="400">
+<img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/confusion_spoof.png" width="400" height="300">
+<img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/metric_spoof.png" width="400" height="300">
 
 </p>
 
