@@ -84,11 +84,10 @@ Throughout the project, several methodologies were employed to refine and enhanc
 - Test Precision: 67.3%
 - Test Recall: 95.3%
 - Test F1-score: 78.9%
+  
 <p float="left">
-
 <img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/confusion_spoof.png" width="400" height="300">
 <img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/metric_spoof.png" width="400" height="300">
-
 </p>
 
 Visualization:
