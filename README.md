@@ -95,7 +95,7 @@ Visualization:
 <img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/face_result_spoof.png" width="1000" height="320">
 </p>
 
-# Project Description: Semantic Segmentation for Self-Driving Cars
+# Project: Semantic Segmentation for Self-Driving Cars
 
 **Objective:** Develop a semantic segmentation model using deep learning techniques to accurately label each pixel in images captured from the CARLA self-driving car simulator. The model aims to categorize pixels into classes like cars, roads, and other objects, contributing to better environmental understanding for self-driving car systems.
 
