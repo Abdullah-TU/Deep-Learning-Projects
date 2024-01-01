@@ -92,7 +92,7 @@ Throughout the project, several methodologies were employed to refine and enhanc
 
 Visualization:
 <p float="left">
-<img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/face_result_spoof.png" width="1000" height="300">
+<img src="https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/face_result_spoof.png" width="1000" height="320">
 </p>
 
 # Project Description: Semantic Segmentation for Self-Driving Cars
