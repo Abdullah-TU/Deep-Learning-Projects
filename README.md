@@ -53,7 +53,7 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 - Target (data)     : hän ilmaisi kiitollisuutensa lahjasta
 - Translated (model): hän pohti kysymystä hetkisen
 &nbsp;
-- Original (data)   : i used to have a minidisc player
+- **Original (data)   : i used to have a minidisc player**
 - Target (data)     : minulla oli aikaisemmin minidiscsoitin
 - Translated (model): minulla oli aikaisemmin minidiscsoitin
 &nbsp;
