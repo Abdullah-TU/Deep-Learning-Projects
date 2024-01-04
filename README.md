@@ -56,9 +56,7 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 - Original (data)   : i used to have a minidisc player
 - Target (data)     : minulla oli aikaisemmin minidiscsoitin
 - Translated (model): minulla oli aikaisemmin minidiscsoitin
-  
-  &nbsp;
-
+&nbsp;
 - Original (data)   : i m not dating anyone
 - Target (data)     : en seurustele kenenkään kanssa tällä hetkellä
 - Translated (model): en ole varma
