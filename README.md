@@ -44,7 +44,6 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 - Original (data)   : you have to speak french here
 - Target (data)     : sinun täytyy puhua täällä ranskaa
 - Translated (model): teidän täytyy puhua ranskaa täällä
-  
 &nbsp;
 - Original (data)   : its against my principles
 - Target (data)     : se on vastoin minun periaatteitani
