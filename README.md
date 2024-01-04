@@ -57,7 +57,7 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 - Target (data)     : minulla oli aikaisemmin minidiscsoitin
 - Translated (model): minulla oli aikaisemmin minidiscsoitin
 &nbsp;
-- Original (data)   : i m not dating anyone
+- **Original (data)   : i m not dating anyone**
 - Target (data)     : en seurustele kenenkään kanssa tällä hetkellä
 - Translated (model): en ole varma
   &nbsp;
