@@ -41,7 +41,7 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 - 🎯 Targets/labels: Target Language Text (Finnish sentences)
 
 ### Translation using the model:
-- Original (data)   : you have to speak french here
+- **Original (data)   : you have to speak french here**
 - Target (data)     : sinun täytyy puhua täällä ranskaa
 - Translated (model): teidän täytyy puhua ranskaa täällä
 &nbsp;
