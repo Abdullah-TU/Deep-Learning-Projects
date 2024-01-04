@@ -49,7 +49,7 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 - Target (data)     : se on vastoin minun periaatteitani
 - Translated (model): se on minun periaatteitani vastaan
 &nbsp;
-- Original (data)   : she expressed her thanks for the present
+- **Original (data)   : she expressed her thanks for the present**
 - Target (data)     : hän ilmaisi kiitollisuutensa lahjasta
 - Translated (model): hän pohti kysymystä hetkisen
 &nbsp;
