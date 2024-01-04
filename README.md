@@ -52,7 +52,6 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 - Original (data)   : she expressed her thanks for the present
 - Target (data)     : hän ilmaisi kiitollisuutensa lahjasta
 - Translated (model): hän pohti kysymystä hetkisen
-  
 &nbsp;
 - Original (data)   : i used to have a minidisc player
 - Target (data)     : minulla oli aikaisemmin minidiscsoitin
