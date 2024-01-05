@@ -7,6 +7,7 @@ The dataset consists of 35,685 examples of gray-scale images of faces with dimen
 - 😟 Sadness
 - 😠 Anger
 - 😯 Surprise
+- 😑 Disgust
 
 
 Targets/labels: The target classes (the emotion categories)
