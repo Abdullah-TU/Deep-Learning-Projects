@@ -55,6 +55,8 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 &nbsp;
 - **Original (data)   : i used to have a minidisc player**
 - Target (data)     : minulla oli aikaisemmin minidiscsoitin
+- Translated (model): minulla oli aikaisemmin minidiscsoitin
+&nbsp;
 
 
 # Project: Face Spoof Detection 👤🕵️‍♂️ 
