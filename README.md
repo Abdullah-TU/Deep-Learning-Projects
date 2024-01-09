@@ -59,7 +59,8 @@ Dataset collected from Tatoeba repository https://tatoeba.org/en/downloads . it 
 &nbsp;
 - **Original (data)   : i m not dating anyone**
 - Target (data)     : en seurustele kenenkään kanssa tällä hetkellä
-
+- Translated (model): en ole varma
+  &nbsp;
 
 # Project: Face Spoof Detection 👤🕵️‍♂️ 
 The dataset encompasses 42,000 examples of gray-scale images of faces, each with dimensions of 64x64 pixels. These images have been segregated into training, validation, and test sets for model development and evaluation.
