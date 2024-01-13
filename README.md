@@ -5,7 +5,7 @@ The dataset consists of 35,685 examples of gray-scale images of faces with dimen
 - 🤗 Happiness
 - 🧑 Neutral
 - 😟 Sadness
-
+- 😠 Anger
 
 Targets/labels: The target classes (the emotion categories)
 Each class corresponds to a specific emotion category. The emotion categories given above.
