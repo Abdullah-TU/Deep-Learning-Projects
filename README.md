@@ -22,7 +22,8 @@ the gray-scale images of faces with dimensions of 48x48 pixels. Each pixel in th
 - Highest training accuracy : 78%
 - Highest validation accuracy : 77%
 
-
+Visualization:
+<p float="left">
 
 # Project: Text-to-text translation
 ## Target of the project:
