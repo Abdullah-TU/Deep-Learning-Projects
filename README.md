@@ -20,6 +20,8 @@ the gray-scale images of faces with dimensions of 48x48 pixels. Each pixel in th
  Performance and accuracies:
  I explored various approaches to observe the outcomes and enhance the model's performance.
 - Highest training accuracy : 78%
+- Highest validation accuracy : 77%
+
 
 
 # Project: Text-to-text translation
