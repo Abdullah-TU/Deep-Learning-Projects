@@ -1,4 +1,6 @@
 # 🚀 Deep Learning Projects 
+## Project: Emotion detection (FER-2013 dataset)
+
 
 - 🤗 Happiness
 - 🧑 Neutral
