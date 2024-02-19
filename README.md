@@ -6,15 +6,7 @@ the facial expressions. The emotion categories include:
 Targets/labels: The target classes (the emotion categories)
 Each class corresponds to a specific emotion category. The emotion categories given above.
 
-- 🤗 Happiness
-- 🧑 Neutral
-- 😟 Sadness
-- 😠 Anger
-- 😯 Surprise
-- 😑 Disgust
-- 😑 Disgust
-- 😨 Fear
-    
+
 - Features: The images
 The images serve as the features or inputs to the model. These images contain visual information that the model will use to make predictions about the corresponding emotions.
 the gray-scale images of faces with dimensions of 48x48 pixels. Each pixel in the image represents a feature value. The dataset consists of 35,685 examples of these images.
