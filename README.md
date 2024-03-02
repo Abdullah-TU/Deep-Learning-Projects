@@ -12,7 +12,7 @@ Each class corresponds to a specific emotion category. The emotion categories gi
 - 😯 Surprise
 - 😑 Disgust
 - 😑 Disgust
-
+- 😨 Fear
     
 
 - Features: The images
