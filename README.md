@@ -8,6 +8,8 @@ Each class corresponds to a specific emotion category. The emotion categories gi
 - 🤗 Happiness
 - 🧑 Neutral
 - 😟 Sadness
+- 😠 Anger
+- 😯 Surprise
 
 
 - Features: The images
