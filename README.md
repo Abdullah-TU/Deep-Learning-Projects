@@ -11,7 +11,8 @@ Each class corresponds to a specific emotion category. The emotion categories gi
 - 😠 Anger
 - 😯 Surprise
 - 😑 Disgust
-
+- 😑 Disgust
+- 😨 Fear
 
 - Features: The images
 The images serve as the features or inputs to the model. These images contain visual information that the model will use to make predictions about the corresponding emotions.
