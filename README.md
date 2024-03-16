@@ -6,6 +6,7 @@ the facial expressions. The emotion categories include:
 - 🧑 Neutral
 - 😟 Sadness
 - 😠 Anger
+- 😯 Surprise
 
 Targets/labels: The target classes (the emotion categories)
 Each class corresponds to a specific emotion category. The emotion categories given above.
