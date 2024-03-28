@@ -18,7 +18,7 @@ Each class corresponds to a specific emotion category. The emotion categories gi
 The images serve as the features or inputs to the model. These images contain visual information that the model will use to make predictions about the 
 corresponding emotions.
 the gray-scale images of faces with dimensions of 48x48 pixels. Each pixel in the image represents a feature value. The dataset consists of 35,685 examples 
-
+of these images.
  Performance and accuracies:
  I explored various approaches to observe the outcomes and enhance the model's performance.
 - Highest training accuracy : 78%
