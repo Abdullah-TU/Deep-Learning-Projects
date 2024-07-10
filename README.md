@@ -4,11 +4,7 @@ The dataset consists of 35,685 examples of gray-scale images of faces with dimen
 The images are categorized based on the emotions depicted in 
 the facial expressions. The emotion categories include:
 - Happy 😊
-- Sad 😢
-- Neutral 😐
-- Disgust 🤢
-- Angry 😠
-- Surprise 😮
+
 
 Targets/labels: The target classes (the emotion categories)
 Each class corresponds to a specific emotion category. The emotion categories given above.
