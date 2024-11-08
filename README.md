@@ -174,6 +174,11 @@ Here's a summary of Project:
    - The predicted labels are converted from one-hot encoded form to integer labels.
    - The accuracy of the model is calculated by comparing the predicted labels with the true labels.
 
+
 7. **Performance of the model**:
    - The calculated accuracy is printed out, indicating the performance of the CNN on the test dataset.
    - The CNN achieved approximately 85% accuracy, surpassing the accuracy of 1-NN and Bayes classifiers.
+
+
+  
+  
