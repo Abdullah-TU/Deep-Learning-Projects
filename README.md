@@ -181,7 +181,7 @@ Here's a summary of Project:
 
 ### Model Accuracy
 
-The Convolutional Neural Network (CNN) achieved an accuracy of approximately **85%**.
+### The Convolutional Neural Network (CNN) achieved an accuracy of approximately **85%**.
 
 ![Model Accuracy Screenshot](https://github.com/user-attachments/assets/a0e72a04-8bd4-4a69-866e-d3da261dade7)
 
