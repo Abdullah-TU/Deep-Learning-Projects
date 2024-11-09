@@ -179,15 +179,13 @@ Here's a summary of Project:
 
 - The calculated accuracy is printed out, indicating the performance of the CNN on the test dataset.
 
-### Model Accuracy
-
-### The Convolutional Neural Network (CNN) achieved an accuracy of approximately **85%**.
+### Model Accuracy: The CNN achieved an accuracy of approximately **85%**
 
 ![Model Accuracy Screenshot](https://github.com/user-attachments/assets/a0e72a04-8bd4-4a69-866e-d3da261dade7)
 
 ## Visualization
 
-Below are visualizations that demonstrate the results of the CNN model:
+Demonstrating the results of the CNN model:
 
 <img width="266" alt="Visualization 1" src="https://github.com/user-attachments/assets/4ee3df15-e427-4154-b9db-fcb0fd67cb0a">
 <img width="260" alt="Visualization 2" src="https://github.com/user-attachments/assets/d455a037-9427-4bc1-86ba-d46314c773b3">
@@ -195,8 +193,6 @@ Below are visualizations that demonstrate the results of the CNN model:
 <img width="266" alt="Visualization 4" src="https://github.com/user-attachments/assets/63f7a26e-17d3-4248-bd5a-4ea6c5ccf025">
 <img width="263" alt="Visualization 5" src="https://github.com/user-attachments/assets/36a27728-1e5f-4b9f-a560-c83ae091bc47">
 <img width="272" alt="Visualization 6" src="https://github.com/user-attachments/assets/995ece26-40dd-476b-a999-9c1c595bf500">
-
-Feel free to explore these visualizations to get a better sense of the model's performance and how well it learned the features from the training data.
 
 
   
