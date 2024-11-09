@@ -179,7 +179,7 @@ Here's a summary of Project:
    - The calculated accuracy is printed out, indicating the performance of the CNN on the test dataset.
  # The CNN achieved approximately 85% accuracy.
 <img width="556" alt="Screenshot 2024-11-08 223234" src="https://github.com/user-attachments/assets/a0e72a04-8bd4-4a69-866e-d3da261dade7">
- #
+ # Visualization:
 <img width="266" alt="1" src="https://github.com/user-attachments/assets/4ee3df15-e427-4154-b9db-fcb0fd67cb0a">
 <img width="260" alt="2" src="https://github.com/user-attachments/assets/d455a037-9427-4bc1-86ba-d46314c773b3">
 <img width="266" alt="3" src="https://github.com/user-attachments/assets/2d186aee-17cf-4b8a-ae92-c8be83a8c605">
