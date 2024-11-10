@@ -228,16 +228,9 @@ This project was implemented using TensorFlow and Keras. Below is a summary of t
 - Optimized using the **Adam optimizer**.
 - Trained the model with **10 epochs** and a batch size of **32**.
 
-```python
-model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
-history = model.fit(x_train, y_train, epochs=10, batch_size=32, validation_split=0.2)
-```
-
 ### Step 4: Model Evaluation
 - Evaluated the model performance on the test dataset.
 - Achieved an accuracy of around **85-87%** on the test set.
-
----
 
 ## 📈 Results and Analysis
 Here are the key outcomes:
@@ -247,42 +240,8 @@ Here are the key outcomes:
 - **Test Accuracy**: Achieved an accuracy of approximately **87%** on unseen test data, suggesting the model performs well in predicting sentiment.
 
 ### Loss and Accuracy Plots
-You can refer to the notebook for detailed plots showing the training and validation loss and accuracy over the epochs.
-
----
-
-## 📝 Usage Instructions
-To replicate the results or experiment with the code, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/rnn-text-classification.git
-   cd rnn-text-classification
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter notebook:
-   ```bash
-   jupyter notebook RNN_Basics.ipynb
-   ```
-
----
-
-## 📂 Explore the Notebook
-The full implementation, including preprocessing, model building, training, and evaluation, can be found in the [notebook file](./RNN_Basics.ipynb).
-
----
 
 ## 🔗 Resources
 - [IMDB Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
 - [TensorFlow/Keras Documentation](https://www.tensorflow.org/guide)
-- [Understanding RNNs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
----
-
-Feel free to adjust any sections to better fit your project specifics. Let me know if you need further customization or additional details!  
-  
