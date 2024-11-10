@@ -246,7 +246,8 @@ Predicted Sentiment: Positive
 Actual Sentiment: Negative
 --------------------------------------------------
 Original review:
-? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? please give this one a miss br br ? ? and the rest of the cast rendered terrible performances the show is flat flat flat br br i don't know how michael madison could have allowed this one on his plate he almost seemed to know this wasn't going to work out and his performance was quite ? so all you madison fans give this a miss
+? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? please give this one a miss br br ? ? and the rest of the cast rendered terrible performances the show is flat flat flat br br i don't know how michael madison could have allowed this one on his plate he almost seemed to know this wasn't going to work out and his performance was quite ? so all you madison fans give this a miss.
+
 --------------------------------------------------
 
 Review 2:
@@ -255,7 +256,6 @@ Actual Sentiment: Positive
 --------------------------------------------------
 Original review:
 psychological ? it's very interesting that robert altman directed this considering the style and structure of his other films still the trademark altman audio style is evident here and there i think what really makes this film work is the brilliant performance by sandy dennis it's definitely one of her darker characters but she plays it so perfectly and convincingly that it's scary michael burns does a good job as the mute young man regular altman player michael murphy has a small part the ? moody set fits the content of the story very well in short this movie is a powerful study of loneliness sexual ? and desperation be patient ? up the atmosphere and pay attention to the wonderfully written script br br i praise robert altman this is one of his many films that deals with unconventional fascinating subject matter this film is disturbing but it's sincere and it's sure to ? a strong emotional response from the viewer if you want to see an unusual film some might even say bizarre this is worth the time br br unfortunately it's very difficult to find in video stores you may have to buy it off the internet
---------------------------------------------------
 
 Review 3:
 Predicted Sentiment: Positive
@@ -319,6 +319,7 @@ Actual Sentiment: Positive
 --------------------------------------------------
 Original review:
 it remains a ? dark film true to the way the batman was always meant to be and highly satisfying br br michael keaton returns as the batman and his alter ego bruce wayne with ? max ? christopher walken named in honour of the 1920s german silent actor his partner in crime ? ? the penguin danny ? in brilliant makeup reminiscent of laurence ? richard iii and ? kyle the ? michelle pfeiffer whom wayne romances both as himself and as the batman the four principals turn in excellent performances especially walken and ? while together keaton and pfeiffer explore the darker side of double identities br br there are some intriguing concepts in this film about the only weakness i can really point out is a certain to the script in some places which i think is due mostly to the way this film is a four ? fight there simply isn't enough time to properly explore what's going on br br nevertheless this is a damn good film i highly recommend watching this in ? with the first and then ? for how good the series could have been had it continued under burton and keaton
+
 ## 🔗 Resources
 - [IMDB Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
 - [TensorFlow/Keras Documentation](https://www.tensorflow.org/guide)
