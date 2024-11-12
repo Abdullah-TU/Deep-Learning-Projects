@@ -241,9 +241,7 @@ Here are the key outcomes:
 
 ### Predicted vs. Actual Sentiments for 10 Test Samples:
 
-Got it! Here's the properly formatted section for the GitHub README. I'll ensure the main text isn't bold, only the specified parts like "Predicted Sentiment" and "Actual Sentiment".
 
-### Predicted vs. Actual Sentiments for 10 Test Samples:
 
 Review 1:  
 **Predicted Sentiment**: Positive  
