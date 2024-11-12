@@ -241,8 +241,6 @@ Here are the key outcomes:
 
 ### Predicted vs. Actual Sentiments for 10 Test Samples:
 
-
-
 Review 1:  
 **Predicted Sentiment**: Positive  
 **Actual Sentiment**: Negative  
