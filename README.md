@@ -238,7 +238,7 @@ Here are the key outcomes:
 - **Validation Accuracy**: Consistent performance on validation data, indicating good generalization.
 - **Test Accuracy**: Achieved an accuracy of approximately **83.76%** on unseen test data, suggesting the model performs well in predicting sentiment.
 
-### Predicted vs. Actual Sentiments for 10 Test Samples:
+### Predicted vs. Actual Sentiments for 10 Test Samples: 
 
 Review 1:  
 **Predicted Sentiment**: Positive  
@@ -273,7 +273,7 @@ Review 5:
 **Actual Sentiment**: Positive  
 --------------------------------------------------  
 Original review:  
-? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? like some other people wrote i'm a die hard mario fan and i loved this game br br this game starts slightly boring but trust me it's worth it as soon as you start your hooked the levels are fun and ? they will hook you ? your mind turns to ? i'm not kidding this game is also ? and is beautifully done br br to keep this spoiler free i have to keep my mouth shut about details but please try this game it'll be worth it br br story 9 9 action 10 1 it's that good ? 10 attention ? 10 average 10
+? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? like some other people wrote i'm a die hard mario fan and i loved this game br br this game starts slightly boring but trust me it's worth it as soon as you start your hooked the levels are fun and ? they will hook you ? your mind turns to ? i'm not kidding this game is also ? and is beautifully done br br to keep this spoiler free i have to keep my mouth shut about details but please try this game it'll be worth it br br story 9 9 action 10 1 it's that good ? 10 attention ? 10 average 10 
 
 ## 🔗 Resources
 - [IMDB Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
