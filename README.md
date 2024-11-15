@@ -238,7 +238,7 @@ Here are the key outcomes:
 - **Validation Accuracy**: Consistent performance on validation data, indicating good generalization.
 - **Test Accuracy**: Achieved an accuracy of approximately **83.76%** on unseen test data, suggesting the model performs well in predicting sentiment.
 
-### Predicted vs. Actual Sentiments for 10 Test Samples: 
+### Predicted vs. Actual Sentiments for 10 Test Samples:
 
 Review 1:  
 **Predicted Sentiment**: Positive  
