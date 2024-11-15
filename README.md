@@ -277,5 +277,3 @@ Original review:
 
 ## 🔗 Resources
 - [IMDB Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
-- [TensorFlow/Keras Documentation](https://www.tensorflow.org/guide)
-
