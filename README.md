@@ -1,6 +1,6 @@
 # 🚀 Deep Learning Projects 
 ## Project: Emotion detection (FER-2013 dataset)
-
+The dataset consists of 35,685 examples of gray-scale images of faces with dimensions of 48x48 pixels. These images are divided into a 
 - Happy 😊
 - Sad 😢
 - Neutral 😐
