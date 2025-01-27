@@ -7,6 +7,7 @@ the facial expressions. The emotion categories include:
 - Happy 😊
 - Sad 😢
 - Neutral 😐
+- Disgust 🤢
 
 
 Targets/labels: The target classes (the emotion categories)
