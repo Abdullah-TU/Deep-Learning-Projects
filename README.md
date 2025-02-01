@@ -19,7 +19,8 @@ The images serve as the features or inputs to the model. These images contain vi
 corresponding emotions.
 the gray-scale images of faces with dimensions of 48x48 pixels. Each pixel in the image represents a feature value. The dataset consists of 35,685 examples 
 of these images.
-
+ Performance and accuracies:
+ I explored various approaches to observe the outcomes and enhance the model's performance.
 
 Visualization:
 <p float="left">
