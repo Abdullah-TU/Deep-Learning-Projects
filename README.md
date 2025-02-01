@@ -22,7 +22,7 @@ of these images.
  Performance and accuracies:
  I explored various approaches to observe the outcomes and enhance the model's performance.
 - Highest training accuracy : 78%
-
+- Highest validation accuracy : 77%
 
 Visualization:
 <p float="left">
