@@ -21,6 +21,8 @@ the gray-scale images of faces with dimensions of 48x48 pixels. Each pixel in th
 of these images.
  Performance and accuracies:
  I explored various approaches to observe the outcomes and enhance the model's performance.
+- Highest training accuracy : 78%
+
 
 Visualization:
 <p float="left">
