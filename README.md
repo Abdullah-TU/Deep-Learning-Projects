@@ -15,7 +15,7 @@ Each class corresponds to a specific emotion category. The emotion categories gi
 - Test Accuracy: 67.3%
 - Test Precision: 67.3%
 - Test Recall: 95.3%
-
+- Test F1-score: 78.9%
 
 - Features: The images
 The images serve as the features or inputs to the model. These images contain visual information that the model will use to make predictions about the 
