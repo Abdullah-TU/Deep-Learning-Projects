@@ -12,7 +12,7 @@ the facial expressions. The emotion categories include:
 
 Targets/labels: The target classes (the emotion categories)
 Each class corresponds to a specific emotion category. The emotion categories given above.
-
+- Test Accuracy: 67.3%
 
 - Features: The images
 The images serve as the features or inputs to the model. These images contain visual information that the model will use to make predictions about the 
