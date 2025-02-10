@@ -6,6 +6,7 @@ The images are categorized based on the emotions depicted in
 the facial expressions. The emotion categories include:
 - Sad 😢
 - Neutral 😐
+- Disgust 🤢
 
 
 Targets/labels: The target classes (the emotion categories)
