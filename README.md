@@ -4,7 +4,6 @@ The dataset consists of 35,685 examples of gray-scale images of faces with dimen
 training dataset and a test dataset. 
 The images are categorized based on the emotions depicted in 
 the facial expressions. The emotion categories include:
-- Happy 😊
 - Sad 😢
 - Neutral 😐
 - Disgust 🤢
