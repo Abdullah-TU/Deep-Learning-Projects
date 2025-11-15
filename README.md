@@ -145,7 +145,6 @@ Visualization:
 # Project:Neural networks(CNN), CIFAR -10 dataset ( Exercise 4)
 
 Project is about image classification using a Convolutional Neural Network (CNN) on the CIFAR-10 dataset.
-
 Here's a summary of Project:
 
 1. **Data Loading and Preprocessing**:
