@@ -195,7 +195,6 @@ Demonstrating the results of the CNN model:
 <img width="263" alt="Visualization 5" src="https://github.com/user-attachments/assets/36a27728-1e5f-4b9f-a560-c83ae091bc47">
 <img width="272" alt="Visualization 6" src="https://github.com/user-attachments/assets/995ece26-40dd-476b-a999-9c1c595bf500">
 
-
 # 🧠 Project: Recurrent Neural Network (RNN) for Text Classification
 
 ## 🎯 Project Goal
