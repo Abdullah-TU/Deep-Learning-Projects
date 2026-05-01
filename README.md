@@ -9,6 +9,8 @@ the facial expressions. The emotion categories include:
 3. Sadness 😢  
 4. Anger 😡 
 5. Surprise 😲
+6. Disgust 🤢  
+
 
 Targets/labels: The target classes (the emotion categories)
 Each class corresponds to a specific emotion category. The emotion categories given above.
