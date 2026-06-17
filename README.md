@@ -5,7 +5,8 @@ training dataset and a test dataset.
 The images are categorized based on the emotions depicted in 
 the facial expressions. The emotion categories include:
 1. Happiness 😊  
- 
+2. Neutral 😐  
+
 
 Targets/labels: The target classes (the emotion categories)
 Each class corresponds to a specific emotion category. The emotion categories given above.
